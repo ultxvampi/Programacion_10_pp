@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE= María del Pilar Cerdas Mora
+CORREO= pilycerdas21@gmail.com
+MATERIAS= Física, Biología, Programación
